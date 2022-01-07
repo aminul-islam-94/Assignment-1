@@ -1,0 +1,98 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+    
+
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    
+}
+.half-width img{
+width: 70%;
+padding-right: 20%;
+padding-bottom: 20%;
+}
+h1{
+    font-size: 40px;
+    scroll-padding-left: 10px;
+}
+.year{
+    color:orangered;
+}
+.anchor-button{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+    color:white;
+    background-color:rgba(255, 0, 0, 0.534);
+
+}
+
+.img-illus{
+    width: 50%;
+    padding-right: 20;
+}
+#mission{
+text-align: center;
+}
+.common-flex{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#h1-32{
+    text-align: center;
+}
+.box-model{
+    width: 40%;
+    box-shadow: 10px 10px 40px grey;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 20px;
+    border-radius: 10px;
+}
+#box-model-1{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    background-color:rgba(255, 0, 0, 0.26);
+}
+#box-model-2{
+    border-left: 7px solid;
+    border-image: linear-gradient(grey, cyan);
+    border-image-slice: 1;
+    background-color:rgba(128, 128, 128, 0.39);
+}
+#box-model-3{
+    border-left: 7px solid;
+    border-image: linear-gradient(red, cyan);
+    border-image-slice: 1;
+    background-color:rgba(137, 43, 226, 0.26);
+}
+.margin{
+    margin-bottom: 80px;
+}
+.coding-img{
+    width: 50%;
+    padding: 20%;
+    margin-right: 10%;
+}
+#heading1{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+.mission-22{
+    color: orange;
+}
+footer p{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
